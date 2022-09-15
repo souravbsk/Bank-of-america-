@@ -4,7 +4,7 @@ const submitBtn = document.getElementById('submitBtn');
 
 submitBtn.addEventListener('click',function(){
 
-    if(mailValue.value == 'sb07008@gmail.com' && passValue.value == 51){
+    if(mailValue.value == 'money@gmail.com' && passValue.value == 125){
        window.location.href = "bank.html";
     }
     else{
